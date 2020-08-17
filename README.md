@@ -11,5 +11,6 @@ An experiment to recreate Target app UI in Flutter.
 ## Disclaimer
 
 ```
-"Target Flutter UI" is not endorsed by, affiliated with, maintained, authorized, or sponsored by Target. All product and company names are the registered trademarks of their original owners.
+"Target Flutter UI" is not endorsed by, affiliated with, maintained, authorized, or sponsored by Target.
+All product and company names are the registered trademarks of their original owners.
 ```

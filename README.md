@@ -6,7 +6,8 @@ An experiment to recreate Target app UI in Flutter.
 
 1. Clone the repo
 2. Connect a device
-3. `flutter run` to run the project
+3. `flutter pub get` to get the dependencies from pubspec.yaml
+4. `flutter run` to run the project
 
 ## Disclaimer
 

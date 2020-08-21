@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:target_deal_finder/palette.dart';
-import 'package:target_deal_finder/widgets/SearchBar.dart';
 
 class CustomAppBar extends PreferredSize {
   final double height;
@@ -22,10 +21,7 @@ class CustomAppBar extends PreferredSize {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             crossAxisAlignment: CrossAxisAlignment.stretch,
-            children: [
-              AppBarTop(),
-              SearchBar(),
-            ],
+            children: [AppBarTop()],
           ),
         ),
       ),
